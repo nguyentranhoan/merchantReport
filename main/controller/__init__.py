@@ -1,0 +1,4 @@
+import controller.report_daily_deal_controller
+import controller.report_daily_reservation_controller
+import controller.report_monthly_deal_controller
+import controller.report_monthly_reservation_controller
